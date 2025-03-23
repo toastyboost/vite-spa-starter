@@ -1,4 +1,4 @@
-import App from "./root/root";
+import App from "./root/app";
 import { News } from "../pages/news";
 
 import { createBrowserRouter } from "react-router";
