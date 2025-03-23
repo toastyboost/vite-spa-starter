@@ -1,4 +1,7 @@
 https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+https://tweakcn.com/editor/theme
+https://habr.com/ru/sandbox/229108/
+https://base-ui.com/react/components/accordion
 
 # React + TypeScript + Vite
 
